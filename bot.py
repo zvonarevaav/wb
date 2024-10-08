@@ -7,7 +7,7 @@ from apscheduler.triggers.date import DateTrigger
 from datetime import timedelta, datetime
 import asyncio
 
-API_TOKEN = '7889455443:AAHaXl_27CWW0XBYS6o0WCnTpRTY4kCbRCM'
+API_TOKEN = ''
 
 # Логирование
 logging.basicConfig(level=logging.INFO)
